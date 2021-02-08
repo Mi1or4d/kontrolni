@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11961" started-at="2021-02-08T19:04:17Z" finished-at="2021-02-08T19:04:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11961" started-at="2021-02-08T19:04:17Z" finished-at="2021-02-08T19:04:29Z">
+      <class name="tests.Tests">
+        <test-method status="PASS" signature="createDriver()[pri:0, instance:tests.Tests@cb5822]" name="createDriver" is-config="true" duration-ms="3041" started-at="2021-02-08T20:04:17Z" finished-at="2021-02-08T20:04:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method status="PASS" signature="alogIn()[pri:0, instance:tests.Tests@cb5822]" name="alogIn" duration-ms="2128" started-at="2021-02-08T20:04:20Z" finished-at="2021-02-08T20:04:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alogIn -->
+        <test-method status="PASS" signature="bLogIn()[pri:0, instance:tests.Tests@cb5822]" name="bLogIn" duration-ms="1154" started-at="2021-02-08T20:04:23Z" finished-at="2021-02-08T20:04:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bLogIn -->
+        <test-method status="PASS" signature="cLogInExcel()[pri:0, instance:tests.Tests@cb5822]" name="cLogInExcel" duration-ms="5016" started-at="2021-02-08T20:04:24Z" finished-at="2021-02-08T20:04:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cLogInExcel -->
+        <test-method status="PASS" signature="goToUrl()[pri:0, instance:tests.Tests@cb5822]" name="goToUrl" duration-ms="102" started-at="2021-02-08T20:04:29Z" finished-at="2021-02-08T20:04:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToUrl -->
+        <test-method status="PASS" signature="sort()[pri:2, instance:tests.Tests@cb5822]" name="sort" duration-ms="480" started-at="2021-02-08T20:04:29Z" finished-at="2021-02-08T20:04:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sort -->
+      </class> <!-- tests.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
